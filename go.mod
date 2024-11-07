@@ -1,4 +1,4 @@
-module github.com/hbolimovsky/webauthn-example
+module github.com/vaishakhsnair/DID-Webauthn
 
 go 1.13
 
